@@ -132,7 +132,8 @@ The test paths are {
   [1,16,20,21]
 }
 ## Step 5
-![lab7cfgevent drawio](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-NotTh3ta/assets/116601995/cb07d417-c2b7-442d-b16a-50d588d659c2)
+![lab7cfg drawio (1)](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-NotTh3ta/assets/116601995/6c6105a4-f3a0-463a-a982-2ac73427d14b)
+
 
 
 
